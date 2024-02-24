@@ -13,8 +13,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Application\" />
-    <Folder Include="Domain\" />
+    <Folder Include="Aplication\Login\" />
+    <Folder Include="Domain\BusinessObjects\Login\" />
   </ItemGroup>
 
 </Project>
